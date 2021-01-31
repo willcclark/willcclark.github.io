@@ -21,9 +21,7 @@
 title: William Clark
 email: wilclk19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Hi, I am William Clark, and this is my personal GitHub Pages website. 
-    I built this primarily as a school project, although I do intend to 
-    use it as a personal website and blog.
+    William "Will" Clark's GitHub Pages site: https://willcclark.github.io/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
