@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Demo: Declaring variables [10 of 51]"
+date: 2020-11-27 8:00:00 -0000
+---
+
+```javascript
+#!/usr/bin/env node
+
+// from <https://youtu.be/EQMPAaAo6Fc>
+
+// remember, var is function-scoped.
+// this file is essentially one function
+var hello = "Hello";
+console.log(hello);
+hello = "Hello world";
+console.log(hello);
+
+// using let (block scoped)
+if (true) {
+    let world = "Hello, World";
+    console.log(world);
+}
+
+// const cannot be changed
+const aaron = "Aaron";
+console.log(aaron);
+```
+_from [Demo: Declaring variables [10 of 51] | Beginner's Series to JavaScript (YouTube)](https://youtu.be/EQMPAaAo6Fc)_

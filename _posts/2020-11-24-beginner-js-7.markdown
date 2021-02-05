@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Comments [7 of 51]"
-date: 2020-11-23 8:00:00 -0000
+date: 2020-11-24 8:00:00 -0000
 ---
-
-# [Comments [7 of 51] | Beginner's Series to JavaScript](https://youtu.be/Wm89TVXGflk?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 What are code comments?
 * Comments are lines in your code that you can see, but that do not get executed
@@ -37,4 +35,5 @@ What are code comments?
         - toggles comments off/on
 * Words from the wise
     + "If your code needs a comment to explain what it does, it's probably too complicated." - Burke Holland, who once put comments on literally everything.
-    + Take it easy with comments: To keep your code clean, try to steer clear of comments and instead make your code easier to read.
+    + Take it easy with comments: To keep your code clean, try to steer clear of comments and instead make your code easier to read.  
+_from: [Comments [7 of 51] | Beginner's Series to JavaScript (YouTube)](https://youtu.be/Wm89TVXGflk?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)_

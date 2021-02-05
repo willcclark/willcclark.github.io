@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Declaring variable: [9 of 51]"
-date: 2020-11-24 8:00:00 -0000
+date: 2020-11-26 8:00:00 -0000
 ---
-
-# [Declaring variable: 9 of 51](https://youtu.be/JNIXfGiDWM8?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 * Three ways to declare variables in JavaScript:
     + _var_
@@ -42,3 +40,5 @@ date: 2020-11-24 8:00:00 -0000
         - use inside of a block scope when it is desirable to create a new variable every time the loop happens.
     + _var_
         - partially obselete, as _let_ and _const_ basically cover all of its use cases, and _let_ and _const_ remove some of the issues with using a _var_ type variable declaration
+        
+_from [Declaring variable: 9 of 51 (YouTube)](https://youtu.be/JNIXfGiDWM8?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)_

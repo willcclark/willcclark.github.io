@@ -3,7 +3,6 @@ layout: post
 title: "Building your toolbox [4 of 51]"
 date: 2020-11-22 8:00:00 -0000
 ---
-# [Building your toolbox [4 of 51] | Beginner's Series to JavaScript](https://youtu.be/69WJeXGBdxg?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 Visual Studio Code
 * Write, debug, and document your code
@@ -22,4 +21,5 @@ VS Code Extensions for JavaScript Developers
 
 Node.js
 * What is Node.js?
-    + Node.js is a JavaScript runtime used to execute JavaScript code outside of a web browser
+    + Node.js is a JavaScript runtime used to execute JavaScript code outside of a web browser  
+_from [Building your toolbox [4 of 51] | Beginner's Series to JavaScript (YouTube)](https://youtu.be/69WJeXGBdxg?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)_
